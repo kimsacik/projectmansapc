@@ -1,0 +1,111 @@
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\CafeMgmt.exe.config
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\CafeMgmt.exe
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\CafeMgmt.pdb
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.csproj.AssemblyReference.cache
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.Form1.resources
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.Properties.Resources.resources
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.csproj.GenerateResource.cache
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.csproj.CoreCompileInputs.cache
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.exe
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.pdb
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.UserOrder.resources
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.GuestOrder.resources
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.ItemForm.resources
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.UsersForm.resources
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\BouncyCastle.Crypto.dll
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\Google.Protobuf.dll
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\K4os.Compression.LZ4.dll
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\K4os.Compression.LZ4.Streams.dll
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\K4os.Hash.xxHash.dll
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\MySql.Data.dll
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\System.Buffers.dll
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\System.Memory.dll
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\System.Numerics.Vectors.dll
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\BouncyCastle.Crypto.xml
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\Google.Protobuf.pdb
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\Google.Protobuf.xml
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\K4os.Compression.LZ4.xml
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\K4os.Compression.LZ4.Streams.xml
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\K4os.Hash.xxHash.xml
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\MySql.Data.xml
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\System.Buffers.xml
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\System.Memory.xml
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\System.Numerics.Vectors.xml
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\Users\popo\source\repos\CafeMgmt\CafeMgmt\obj\Debug\CafeMgmt.csproj.CopyComplete
+C:\CafeMgmt_\CafeMgmt\bin\Debug\CafeMgmt.exe.config
+C:\CafeMgmt_\CafeMgmt\bin\Debug\CafeMgmt.exe
+C:\CafeMgmt_\CafeMgmt\bin\Debug\CafeMgmt.pdb
+C:\CafeMgmt_\CafeMgmt\bin\Debug\BouncyCastle.Crypto.dll
+C:\CafeMgmt_\CafeMgmt\bin\Debug\Google.Protobuf.dll
+C:\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Compression.LZ4.dll
+C:\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Hash.xxHash.dll
+C:\CafeMgmt_\CafeMgmt\bin\Debug\MySql.Data.dll
+C:\CafeMgmt_\CafeMgmt\bin\Debug\System.Buffers.dll
+C:\CafeMgmt_\CafeMgmt\bin\Debug\System.Memory.dll
+C:\CafeMgmt_\CafeMgmt\bin\Debug\System.Numerics.Vectors.dll
+C:\CafeMgmt_\CafeMgmt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\CafeMgmt_\CafeMgmt\bin\Debug\BouncyCastle.Crypto.xml
+C:\CafeMgmt_\CafeMgmt\bin\Debug\Google.Protobuf.pdb
+C:\CafeMgmt_\CafeMgmt\bin\Debug\Google.Protobuf.xml
+C:\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Compression.LZ4.xml
+C:\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Hash.xxHash.xml
+C:\CafeMgmt_\CafeMgmt\bin\Debug\MySql.Data.xml
+C:\CafeMgmt_\CafeMgmt\bin\Debug\System.Buffers.xml
+C:\CafeMgmt_\CafeMgmt\bin\Debug\System.Memory.xml
+C:\CafeMgmt_\CafeMgmt\bin\Debug\System.Numerics.Vectors.xml
+C:\CafeMgmt_\CafeMgmt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.csproj.AssemblyReference.cache
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.csproj.SuggestedBindingRedirects.cache
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.Form1.resources
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.GuestOrder.resources
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.ItemForm.resources
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.Properties.Resources.resources
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.UserOrder.resources
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.UsersForm.resources
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.csproj.GenerateResource.cache
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.csproj.CoreCompileInputs.cache
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.csproj.CopyComplete
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.exe
+C:\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.pdb
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\CafeMgmt.exe.config
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\CafeMgmt.exe
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\CafeMgmt.pdb
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\MySql.Data.dll
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\System.Buffers.dll
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\System.Memory.dll
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\Google.Protobuf.pdb
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\Google.Protobuf.xml
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\MySql.Data.xml
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\System.Buffers.xml
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\System.Memory.xml
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.Form1.resources
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.GuestOrder.resources
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.Properties.Resources.resources
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.UserOrder.resources
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.csproj.CopyComplete
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.exe
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.pdb
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.ProductForm.resources
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.Adminform.resources
+C:\Users\asus\OneDrive\Documents\mansa neww\CafeMgmt_\CafeMgmt\obj\Debug\CafeMgmt.OrderDetails.resources
